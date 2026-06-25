@@ -18,7 +18,7 @@
 
 ---
 
-## Work goal
+## Goal of work
 Develop a full-fledged client-server application in the Java language that implements the business logic of agricultural resource management (AgroTech). The project combines work with a database, REST API and integration with external services.
 
 ## Technological stack
